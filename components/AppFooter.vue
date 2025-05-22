@@ -59,10 +59,10 @@
       
       <!-- Social Media Icons -->
       <div class="social-media-icons">
-        <a href="#"><img src="/images/facebook.png" alt="Facebook" /></a>
-        <a href="#"><img src="/images/twitter.png" alt="Twitter" /></a>
-        <a href="#"><img src="/images/linkedin.png" alt="LinkedIn" /></a>
-        <a href="#"><img src="/images/instagram.png" alt="Instagram" /></a>
+        <a href="#"><img src="/images/facebook.png" alt="facebook" /></a>
+        <a href="#"><img src="/images/twitter.png" alt="twitter" /></a>
+        <a href="#"><img src="/images/linkedin.png" alt="linkedIn" /></a>
+        <a href="#"><img src="/images/instagram.png" alt="instagram" /></a>
       </div>
       
       <!-- Bottom Bar -->
