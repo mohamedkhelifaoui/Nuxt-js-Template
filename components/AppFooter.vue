@@ -58,12 +58,12 @@
       </div>
       
       <!-- Social Media Icons -->
-      <div class="social-media-icons">
+      <!-- <div class="social-media-icons">
         <a href="#"><img src="/images/facebook.png" alt="facebook" /></a>
         <a href="#"><img src="/images/twitter.png" alt="twitter" /></a>
         <a href="#"><img src="/images/linkedin.png" alt="linkedIn" /></a>
         <a href="#"><img src="/images/instagram.png" alt="instagram" /></a>
-      </div>
+      </div> -->
       
       <!-- Bottom Bar -->
       <div class="footer-bottom">
