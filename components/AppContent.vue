@@ -1,0 +1,5 @@
+<template>
+  <main>
+    <p>This is the main content of the page.</p>
+  </main>
+</template>
