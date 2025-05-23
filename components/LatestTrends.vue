@@ -326,7 +326,7 @@ function slideNext() {
     align-items: flex-start;
     padding: 0 5vw;
     margin-bottom: 30px;
-    width: 90%;
+    width: 89%;
     gap: 18px;
   }
   .heading h2 {
@@ -395,7 +395,6 @@ function slideNext() {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    /* Fix label under image */
     margin-bottom: 0;
     aspect-ratio: 145.5/210;
   }
@@ -421,7 +420,7 @@ function slideNext() {
   }
   .mobile-inspirations-section {
     padding: 0 18px 32px 18px;
-    width: 100%;
+    width: 90%;
     max-width: 460px;
     margin: 0 auto;
   }
@@ -457,8 +456,8 @@ function slideNext() {
     box-shadow: none;
     border: none;
     transition: background 0.15s;
-      aspect-ratio: 290/50;
-      width: 90%;
+    aspect-ratio: 290/50;
+    width: 90%;
 
   }
   .newsletter button:hover {

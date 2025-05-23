@@ -17,3 +17,6 @@ import LatestTrends from '@/components/LatestTrends.vue'
 import AppFooter from '@/components/AppFooter.vue'
 
 </script>
+<style scoped>
+
+</style>

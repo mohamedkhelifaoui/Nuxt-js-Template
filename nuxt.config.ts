@@ -10,9 +10,7 @@ export default defineNuxtConfig({
       ]
     }
   },
-  nitro: {
-    preset: 'netlify'
-  },
+
   css: ['@/assets/css/main.css', 'swiper/css' ,'@fortawesome/fontawesome-free/css/all.css'],
 
 })
