@@ -317,7 +317,6 @@ function slideNext() {
 @media (max-width: 600px) {
   .desktop-only { display: none !important; }
   .mobile-only { display: block !important; }
-
   .latest-trends {
     padding: 32px 0 0 0;
   }
